@@ -1,2 +1,1 @@
-#Text Analytics
-Coronavirus Tweets Sentiment Analysis 
+**TEXT ANALYTICS** - Coronavirus Tweets Sentiment Analysis 
